@@ -1,0 +1,11 @@
+# build / runtime artifacts (binaries are distributed via Releases, not git)
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+release/
+*.zip
+*.dmg
+.DS_Store
+Thumbs.db
