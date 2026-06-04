@@ -6,8 +6,8 @@
 Voiceover (TTS), AI image & video generation, a node-based workflow editor,
 and a built-in local REST API (Webhook) for n8n / Make / Zapier.
 
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue)]()
-[![Made with Python](https://img.shields.io/badge/made%20with-Python-3776AB?logo=python&logoColor=white)]()
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-blue)](https://github.com/Dubvoice/Dubvoice-Automation/releases)
+[![Made with Python](https://img.shields.io/badge/made%20with-Python-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![Powered by dubvoice.ai](https://img.shields.io/badge/powered%20by-dubvoice.ai-5b6cff)](https://www.dubvoice.ai)
 
 </div>
