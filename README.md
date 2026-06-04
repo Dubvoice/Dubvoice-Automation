@@ -79,12 +79,6 @@ curl http://127.0.0.1:8765/api/file/abc123 -H "X-API-Key: YOUR_KEY" -o result.pn
 | `GET`  | `/api/result/{task_id}` | Result (URL + local path) |
 | `GET`  | `/api/file/{task_id}`   | The generated file |
 
-A ready-to-run test script is included: **[`test_webhook.py`](test_webhook.py)**.
-
-```bash
-python test_webhook.py --key YOUR_KEY
-```
-
 ---
 
 ## ❓ Support
