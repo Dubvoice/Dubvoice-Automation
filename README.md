@@ -18,7 +18,7 @@ and a built-in local REST API (Webhook) for n8n / Make / Zapier.
 
 | Platform | GitHub | Google Drive |
 | :------- | :----- | :----------- |
-| 🪟 **Windows** | <!-- GH_WIN -->[DubVoice-Windows.zip](https://github.com/Dubvoice/Dubvoice-Automation/releases/latest/download/DubVoice-Windows.zip) | <!-- DRIVE_WIN -->[Google Drive](https://drive.google.com/file/d/1tDODlMOBUwiyzMvHawV7-imglOZ5URLB/view?usp=sharing) |
+| 🪟 **Windows** | <!-- GH_WIN -->[DubVoice-Windows.zip](https://github.com/Dubvoice/Dubvoice-Automation/releases/latest/download/DubVoice-Windows.zip) | <!-- DRIVE_WIN -->[Google Drive](https://drive.google.com/file/d/1XYgoOp5a1K6ovh905nEIdtNAeH-tabjz/view?usp=sharing) |
 | 🍎 **macOS — Intel** | <!-- GH_MAC_INTEL -->_coming soon_ | <!-- DRIVE_MAC_INTEL -->_coming soon_ |
 | 🍎 **macOS — Apple Silicon** | <!-- GH_MAC_ARM -->_coming soon_ | <!-- DRIVE_MAC_ARM -->_coming soon_ |
 
