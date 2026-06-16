@@ -27,8 +27,10 @@ and a built-in local REST API (Webhook) for n8n / Make / Zapier.
 ## ✨ Features
 
 - **🎙 Voiceover (TTS)** — ElevenLabs, Minimax, Edge, Kokoro. Live voice/credit counter.
-- **🖼 Flow Image** — Nano Banana 2 / Nano Banana / Nano Banana Pro.
+- **🖼 Flow Image** — Nano Banana 2 / Nano Banana / Nano Banana Pro, parallel jobs (1–4).
 - **🎬 Flow Video** — Veo 3.1 Fast / Quality / Lite.
+- **🤖 Grok Media** — xAI Grok text-to-image & image-to-image.
+- **📚 Character Library** — save named reference images and call them in any prompt with `@name`.
 - **🔀 Workflow** — Node-based editor: Prompt → Image → Video → Extract Frame.
 - **🔗 Webhook** — Local REST API server so external tools can drive generation.
 - **🌍 Languages** — English / Türkçe / Español, switchable live.
